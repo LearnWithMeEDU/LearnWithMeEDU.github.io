@@ -11,13 +11,10 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 ## Donate to Support the Channel!
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
 Donation QR Code:\
-![AliPay支付宝](Alipay.jpeg)
-![WeChat微信支付](WechatPay.PNG)
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+AliPay支付宝\
+![AliPay支付宝](Alipay.jpeg=250x250)
+WeChat微信支付\
+![WeChat微信支付](WechatPay.PNG=250x250)
 
 ## Previous Cases:
 ```markdown
