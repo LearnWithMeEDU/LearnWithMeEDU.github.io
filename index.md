@@ -10,8 +10,10 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 # Wecome to Support and Donate to My Channel!
 ## Donate to Support the Channel!
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
-Donation Link:
-[Paypal](https://paypal.me/LearnwithMeCal)
+Donation QR Code:\
+[AliPay支付宝](https://github.com/LearnWithMeEDU/archive/blob/main/Alipay.jpeg)
+[WeChat微信支付](https://github.com/LearnWithMeEDU/archive/blob/main/WechatPay.PNG)
+
 
 ## Previous Cases:
 ```markdown
