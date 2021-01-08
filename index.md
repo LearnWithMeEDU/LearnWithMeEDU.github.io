@@ -5,11 +5,11 @@
 				   
 Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6yapaqaAp-1xuDvH_mDmQ) and [Bilibili](https://space.bilibili.com/448559999).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    
 
 ## Wecome to Support and Donate to My Channel!
 
-Your support is the way that I can continue working on producing vidoes.
+Your support is the way that I can continue working on producing technical and hardcore videos. Compared to the people who make only intro-level videos, this is harder and usually lead to less views and likes. And thus hard to profit from Youtube or Advertiser. 
 
 ```markdown
 Syntax highlighted code block
@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LearnWithMeEDU/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Support or Contact
 
