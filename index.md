@@ -33,10 +33,19 @@ Previous Cases (time series order):
 
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
-
 ## 留学和考试
 
+```markdown
+我们提供从考试到求职，不同年龄阶段的一连串解决方案。      
+每周针对问题进行1对1辅导，这些问题可以包括
+#1 随机过程的状态转移方程
+#2 不明白一个position是干什么的
+#3 老师陶瓷没有回复
+#4 .....
 
+[PRICE MATCH If you provide evidence to show the same service with price in the market.]
+```
+[付费咨询](image)：
 
 ## Quant Training
 
