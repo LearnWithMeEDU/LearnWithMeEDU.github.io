@@ -12,9 +12,9 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
 Donation QR Code:\
 AliPay支付宝\
-![AliPay支付宝](Alipay.jpeg=350x)
+![AliPay支付宝](Alipay.jpeg){:height="355px" width="355px"}
 WeChat微信支付\
-![WeChat微信支付](WechatPay.PNG=350x)
+![WeChat微信支付](WechatPay.PNG)
 
 ## Previous Cases:
 ```markdown
