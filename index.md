@@ -11,7 +11,7 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 ## Donate to Support the Channel!
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
      
-![Domation](https://octodex.github.com/images/yaktocat.png)
+![Paypal](https://paypal.me/LearnwithMeCal)
 
 ## Previous Cases:
 ```markdown
@@ -30,6 +30,7 @@ Previous Cases (time series order):
 #11 C.G, Cornell MFE, Quant researcher in Moody's; Undergrad: Wuhan Uni.
 #12 J.L, Quant Researcher XVA in European Bank, Ph.D in Physics, University of Cambridge; Undergrad: University of Science and Technology of China
 #13 G.H, Undergrad: Columbia; High School: Albany High School, Ca. SAT: 2300
+#14 A.X, Master of Arts in New York Film Academy; Undergrad: Qingdao Art School
 
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
@@ -39,9 +40,10 @@ Previous Cases (time series order):
 我们提供从考试到求职，不同年龄阶段的一连串解决方案。      
 每周针对问题进行1对1辅导，这些问题可以包括
 #1 随机过程的状态转移方程
-#2 不明白一个position是干什么的
-#3 老师陶瓷没有回复
-#4 .....
+#2 不明白一个职位是干什么的
+#3 老师陶瓷没有回复，不知道发什么好
+#4 转专业，转行心里没底……
+#5 ……
 
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
