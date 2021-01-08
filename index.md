@@ -8,10 +8,10 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
     
 
 # Wecome to Support and Donate to My Channel!
-
-Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math.     
+## Donate to Support the Channel!
+Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
      
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Domation](https://octodex.github.com/images/yaktocat.png)
 
 ## Previous Cases:
 ```markdown
@@ -48,11 +48,16 @@ Previous Cases (time series order):
 [付费咨询](image)：
 
 ## Quant Training
+```markdown
+course: intro-level, full-service, interview-only
+```
+[Price](image)
 
-## Career Mentor
+
 
 ## Support or Contact
 Wechat: LuoMaEdu
+[QR code](image)
 
 
 
