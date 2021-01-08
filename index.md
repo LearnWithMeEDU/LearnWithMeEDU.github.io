@@ -9,11 +9,11 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 
 # Wecome to Support and Donate to My Channel!
 
-Your donation and support is the motivation that I can continue working on producing technical and hardcore videos.     
-Compared to the people who make only intro-level videos, this is harder and usually lead to less views and likes. And thus hard to profit from Youtube or Advertiser.     
+Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math.     
+     
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## 留学申请
+## 留学和考试
 ```markdown
 We provide courses on:
 
@@ -24,7 +24,6 @@ We provide courses on:
 [we can do price match! If you provide evidence to show the same service with the price in the market.]
 ```
 
-## 考试培训
 
 ## Quant Training
 
