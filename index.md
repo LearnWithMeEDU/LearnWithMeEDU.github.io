@@ -13,7 +13,7 @@ Your donation and support is the motivation that I can continue working on produ
 Compared to the people who make only intro-level videos, this is harder and usually lead to less views and likes. And thus hard to profit from Youtube or Advertiser.     
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## For deeper knowledge
+## 留学申请
 ```markdown
 We provide courses on:
 
@@ -21,16 +21,17 @@ We provide courses on:
 # [Intro] Quant Training: for undergrad with STEM, non-MFE students, non-STEM PhD
 # [Hardcore] Quant Training: for MFE, STEM PhD students
 
-[Link](url) and ![Image](QR Code)
+[we can do price match! If you provide evidence to show the same service with the price in the market.]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 考试培训
 
-### Jekyll Themes
+## Quant Training
 
+## Career Mentor
 
-### Support or Contact
+## Support or Contact
 Wechat: LuoMaEdu
-email: 
+
 
 
