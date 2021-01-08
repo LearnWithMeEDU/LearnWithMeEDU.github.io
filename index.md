@@ -29,6 +29,7 @@ Previous Cases (time series order):
 #10 M.A, Associate in a leading VC in Beijing, MFE in NYU Tandon; Undergrad: Wuhan Uni.
 #11 C.G, Cornell MFE, Quant researcher in Moody's; Undergrad: Wuhan Uni.
 #12 J.L, Quant Researcher XVA in European Bank, Ph.D in Physics, University of Cambridge; Undergrad: University of Science and Technology of China
+#13 G.H, Undergrad: Columbia; High School: Albany High School, Ca. SAT: 2300
 
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
