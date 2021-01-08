@@ -14,6 +14,9 @@ Donation QR Code:\
 ![AliPay支付宝](https://github.com/LearnWithMeEDU/archive/blob/main/Alipay.jpeg)
 ![WeChat微信支付](https://github.com/LearnWithMeEDU/archive/blob/main/WechatPay.PNG)
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ## Previous Cases:
 ```markdown
