@@ -17,7 +17,7 @@ Donation QR Code:\
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
-![Branching](https://guides.github.com/Activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ## Previous Cases:
 ```markdown
