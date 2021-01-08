@@ -10,8 +10,8 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 # Wecome to Support and Donate to My Channel!
 ## Donate to Support the Channel!
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
-     
-![Paypal](https://paypal.me/LearnwithMeCal)
+Donation Link:
+[Paypal](https://paypal.me/LearnwithMeCal)
 
 ## Previous Cases:
 ```markdown
