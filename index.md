@@ -7,34 +7,30 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 
     
 
-## Wecome to Support and Donate to My Channel!
+# Wecome to Support and Donate to My Channel!
 
-Your support is the way that I can continue working on producing technical and hardcore videos. Compared to the people who make only intro-level videos, this is harder and usually lead to less views and likes. And thus hard to profit from Youtube or Advertiser. 
+Your donation and support is the motivation that I can continue working on producing technical and hardcore videos.     
+Compared to the people who make only intro-level videos, this is harder and usually lead to less views and likes. And thus hard to profit from Youtube or Advertiser.     
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## For deeper knowledge
 ```markdown
-Syntax highlighted code block
+We provide courses on:
 
-# Header 1
-## Header 2
-### Header 3
+# 留学申请, GRE/GMAT/AP/SAT/IELTS
+# [Intro] Quant Training: for undergrad with STEM, non-MFE students, non-STEM PhD
+# [Hardcore] Quant Training: for MFE, STEM PhD students
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](QR Code)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Support or Contact
+Wechat: LuoMaEdu
+email: 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
