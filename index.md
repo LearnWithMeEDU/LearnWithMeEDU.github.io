@@ -82,7 +82,7 @@ type: 1 on 1, 5 hours
 Wechat: LuoMaEdu\
 It is very appreciable and feel free to let me after you donate or buy the service. 
 QR Code\
-![QR code](QR Code.JPG){:height="250px" width="250px"}
+![QR code](QR Code.PNG){:height="250px" width="250px"}
 
 
 
