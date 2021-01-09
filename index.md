@@ -52,6 +52,7 @@ Previous Cases (time series order):
 
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
+付费咨询$10\
 ![付费咨询$10](Alipay.jpeg){:height="250px" width="250px"}
 
 ## Quant Training
@@ -72,6 +73,7 @@ For whom: people who received urgent interview invitation but not ready...(I str
 type: 1 on 1, 5 hours
 
 ```
+付费咨询$10\
 ![付费咨询$10](Alipay.jpeg){:height="250px" width="250px"}
 
 
@@ -79,7 +81,8 @@ type: 1 on 1, 5 hours
 ## Support or Contact
 Wechat: LuoMaEdu\
 It is very appreciable and feel free to let me after you donate or buy the service. 
-[QR code](QR Code.JPG){:height="250px" width="250px"}
+QR Code\
+![QR code](QR Code.JPG){:height="250px" width="250px"}
 
 
 
