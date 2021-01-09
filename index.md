@@ -16,7 +16,7 @@ AliPay 支付宝\
 ![AliPay支付宝](Alipay.jpeg){:height="250px" width="250px"}\
 \
 \
-WeChatPay 微信支付\
+WeChatPay 微信Donation\
 ![WeChat微信支付](WechatPay.PNG){:height="250px" width="250px"}\
 
 ## Previous Cases:
@@ -57,7 +57,7 @@ Previous Cases (time series order):
 AliPay支付宝\
 ![付费咨询$2.99](Alipay.jpeg){:height="200px" width="200px"}\
 \
-WechatPay微信支付\
+WechatPay微信\
 ![付费咨询$2.99](WechatPay.PNG){:height="200px" width="200px"}
 
 
