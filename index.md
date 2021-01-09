@@ -58,17 +58,17 @@ Previous Cases (time series order):
 ## Quant Training
 
 ```markdown
-course: Full Plan
+#1 course: Full Plan
 for whom: MFE student, STEM PhD
 type: 1 on 1 live. 30 hours
 ```
 ```markdown
-course: Intro
+#2 course: Intro
 for whom: non-MFE student, undergrad, non-STEM students, we already have 2 highschool students!
 type: 1 hour 1 on 1, 5 hours video
 ```
 ```markdown
-course: Interview Only
+#3 course: Interview Only
 For whom: people who received urgent interview invitation but not ready...(I strongly recommend you give up if you are not ready)
 type: 1 on 1, 5 hours
 
