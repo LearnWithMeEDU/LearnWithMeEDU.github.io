@@ -7,8 +7,8 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 
     
 
-# Wecome to Support and Donate to My Channel!
-## Donate to Support the Channel!
+# Wecome to My Channel!
+## Donate a cup of coffee to support the Channel!
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
 Donation QR Code:\
 AliPay支付宝\
@@ -52,19 +52,31 @@ Previous Cases (time series order):
 
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
-[付费咨询](image)：
+![付费咨询$10](Alipay.jpeg){:height="250px" width="250px"}
 
 ## Quant Training
+
 ```markdown
-course: intro-level, full-service, interview-only
+course: Full Plan
+for whom: MFE student, STEM PhD
 ```
-[Price](image)
+```markdown
+course: Intro
+for whom: non-MFE student, undergrad, non-STEM students, we already have 2 highschool students!
+```
+```markdown
+course: Interview Only
+For whom:
+
+```
+![付费咨询$10](Alipay.jpeg){:height="250px" width="250px"}
 
 
 
 ## Support or Contact
-Wechat: LuoMaEdu
-[QR code](image)
+Wechat: LuoMaEdu\
+It is very appreciable and feel free to let me after you donate or buy the service. 
+[QR code](QR Code.JPG){:height="250px" width="250px"}
 
 
 
