@@ -11,12 +11,12 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 ## Donate a cup of coffee to support the Channel!
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
 Donation QR Code:\
-AliPay支付宝\
-![AliPay支付宝](Alipay.jpeg){:height="355px" width="355px"}\
+AliPay 支付宝\
+![AliPay支付宝](Alipay.jpeg){:height="250px" width="250px"}\
 \
 \
-WeChat微信支付\
-![WeChat微信支付](WechatPay.PNG)
+WeChatPay 微信支付\
+![WeChat微信支付](WechatPay.PNG){:height="250px" width="250px"}\
 
 ## Previous Cases:
 ```markdown
@@ -42,11 +42,11 @@ Previous Cases (time series order):
 ## 留学和考试
 
 ```markdown
-我们提供从考试到求职，不同年龄阶段的一连串解决方案。      
-每周针对问题进行1对1辅导，这些问题可以包括
-#1 随机过程的状态转移方程
-#2 不明白一个职位是干什么的
-#3 老师陶瓷没有回复，不知道发什么好
+我们提供从考试到申请，不同年龄阶段的从开始到结尾的解决方案。      
+每周针对问题进行1对1辅导，这些问题可以包括但不限于：
+#1 GRE，SAT，托福，雅思考试题目破解
+#2 不明白一个专业是干什么的
+#3 PhD申请老师陶瓷没有回复，不知道发什么好……
 #4 转专业，转行心里没底……
 #5 ……
 
@@ -59,14 +59,17 @@ Previous Cases (time series order):
 ```markdown
 course: Full Plan
 for whom: MFE student, STEM PhD
+type: 1 on 1 live. 30 hours
 ```
 ```markdown
 course: Intro
 for whom: non-MFE student, undergrad, non-STEM students, we already have 2 highschool students!
+type: 1 hour 1 on 1, 5 hours video
 ```
 ```markdown
 course: Interview Only
-For whom:
+For whom: people who received urgent interview invitation but not ready...(I strongly recommend you give up if you are not ready)
+type: 1 on 1, 5 hours
 
 ```
 ![付费咨询$10](Alipay.jpeg){:height="250px" width="250px"}
