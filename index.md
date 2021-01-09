@@ -9,8 +9,9 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 
 # Wecome to My Channel!
 ## Donate a cup of coffee to support the Channel!
-Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.   
-Donation QR Code:\
+Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.
+Donation method:\   
+Buy us a cup of coffee:\
 AliPay 支付宝\
 ![AliPay支付宝](Alipay.jpeg){:height="250px" width="250px"}\
 \
@@ -53,7 +54,11 @@ Previous Cases (time series order):
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
 付费咨询$2.99\
-![付费咨询$2.99](Alipay.jpeg){:height="250px" width="250px"}
+AliPay支付宝\
+![付费咨询$2.99](Alipay.jpeg){:height="200px" width="200px"}
+WechatPay微信支付\
+![付费咨询$2.99](WechatPay.PNG){:height="200px" width="200px"}
+
 
 ## Quant Training
 
@@ -76,7 +81,10 @@ type: 1 on 1, 5 hours
 [PRICE MATCH available]
 ```
 付费咨询$2.99\
-![付费咨询$2.99](Alipay.jpeg){:height="250px" width="250px"}
+AliPay支付宝\
+![付费咨询$2.99](Alipay.jpeg){:height="200px" width="200px"}
+WechatPay微信支付\
+![付费咨询$2.99](WechatPay.PNG){:height="200px" width="200px"}
 
 
 
