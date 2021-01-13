@@ -89,12 +89,19 @@ WechatPay微信支付\
 ![付费咨询$2.99](WechatPay.PNG){:height="200px" width="200px"}
 
 
-
 ## Support or Contact
 Wechat: LuoMaEdu\
 It is very appreciable and feel free to let me after you donate or buy the service. 
 QR Code\
 ![QR code](QR Code.PNG){:height="250px" width="250px"}
 
+## 代买+代发服务（从美国到中国）
+代买+代发货（从美国到中国）
+详情见下图
+![1](IMG_7274.JPG)\
+![2](IMG_7269.JPG)\
+![3](IMG_7273.JPG)
+
+## Local Snacks in China(土味中国零食)
 
 
