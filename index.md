@@ -53,13 +53,6 @@ Previous Cases (time series order):
 
 [PRICE MATCH If you provide evidence to show the same service with price in the market.]
 ```
-付费咨询$2.99\
-AliPay支付宝\
-![付费咨询$2.99](Alipay.jpeg){:height="200px" width="200px"}\
-\
-WechatPay微信\
-![付费咨询$2.99](WechatPay.PNG){:height="200px" width="200px"}
-
 
 ## Quant Training
 
@@ -81,35 +74,6 @@ For whom: people who received urgent interview invitation but not ready...(I str
 type: 1 on 1, 5 hours
 [PRICE MATCH available]
 ```
-付费咨询$2.99\
-AliPay支付宝\
-![付费咨询$2.99](Alipay.jpeg){:height="200px" width="200px"}\
-\
-WechatPay微信支付\
-![付费咨询$2.99](WechatPay.PNG){:height="200px" width="200px"}
-
-
-## Support or Contact
-Wechat: LuoMaEdu\
-It is very appreciable and feel free to let me after you donate or buy the service. 
-QR Code\
-![QR code](QR Code.PNG){:height="250px" width="250px"}
-
-## 代买+代发服务（从美国到中国）
-代买+代发货（从美国到中国）
-详情见下图
-![1](IMG_7274.JPG)\
-![2](IMG_7269.JPG)\
-![3](IMG_7273.JPG)\
-
-## Local Snacks in China(土味中国零食)
-【味芝源】劲辣鱼棒\
-![味芝源劲辣鱼棒](IMG_6962.JPG)\
-【平哥】泡鸭爪\
-![平哥泡鸭爪](IMG_6964.JPG)\
-\
-更多零食，请添加微信：\
-Louis_Paul9603
 
 
 
