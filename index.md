@@ -10,14 +10,6 @@ Thanks for watching my video on [Youtube](https://www.youtube.com/channel/UCF6ya
 # Wecome to My Channel!
 ## Donate a cup of coffee to support the Channel!
 Your donation and support makes me continue working on producing technical and hardcore videos and help more people who enjoys quant finance and math for free.\
-Donation method:\   
-Donation with a cup of coffee:\
-AliPay 支付宝\
-![AliPay支付宝](Alipay.jpeg){:height="250px" width="250px"}\
-\
-\
-WeChatPay 微信Donation\
-![WeChat微信支付](WechatPay.PNG){:height="250px" width="250px"}\
 
 ## Previous Cases:
 ```markdown
