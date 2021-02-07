@@ -57,7 +57,7 @@ type: 1 on 1 live. 30 hours
 [PRICE MATCH available]
 ```
 ```markdown
-#2 course: Intro ($399)
+#2 course: Intro ($699)
 for whom: non-MFE student, undergrad, non-STEM students, highschool student (we already have 2 highschool students!)
 type: 1 hour 1 on 1 live, 5 hours video
 [PRICE MATCH available]
