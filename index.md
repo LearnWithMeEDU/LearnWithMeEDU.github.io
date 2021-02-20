@@ -57,7 +57,7 @@ type: 1 on 1 live. 30 hours
 [PRICE MATCH available]
 ```
 ```markdown
-#2 course: Intro ($699)
+#2 course: Intro 
 for whom: non-MFE student, undergrad, non-STEM students, highschool student (we already have 2 highschool students!)
 type: 1 hour 1 on 1 live, 5 hours video
 [PRICE MATCH available]
@@ -65,7 +65,7 @@ type: 1 hour 1 on 1 live, 5 hours video
 ```markdown
 #3 course: Interview Only（临时抱佛脚）
 For whom: people who received urgent interview invitation but not ready...(I strongly recommend you give up if you are not ready)
-type: 1 on 1, 5 hours
+type: 1 on 1, 10 hours
 [PRICE MATCH available]
 ```
 
